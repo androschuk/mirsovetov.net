@@ -2,3 +2,9 @@ mirsovetov.net
 ==============
 
 Example projects for site mirsovetov.net
+
+* MailChecker - проверка почты средствами Delphi
+* OutputDebugString - Пример вывода отладочной информации в окно EventLog/Output
+* Resource - Пример как работать с ресурсами в Delphi
+* FastReport/Variables - FastReport работа с переменными (Variables)
+* FreeObject - Ghbvth
