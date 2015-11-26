@@ -7,4 +7,4 @@ Example projects for site mirsovetov.net
 * OutputDebugString - Пример вывода отладочной информации в окно EventLog/Output
 * Resource - Пример как работать с ресурсами в Delphi
 * FastReport/Variables - FastReport работа с переменными (Variables)
-* FreeObject - Ghbvth
+* FreeObject - TStrings и освобождение объектов. Предотвращение утечек памяти
