@@ -8,3 +8,4 @@ Example projects for site mirsovetov.net
 * Resource - Пример как работать с ресурсами в Delphi
 * FastReport/Variables - FastReport работа с переменными (Variables)
 * FreeObject - TStrings и освобождение объектов. Предотвращение утечек памяти
+* StringList - Тестирование производительности добавления записей в StringList
