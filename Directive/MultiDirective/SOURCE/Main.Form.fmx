@@ -1,0 +1,40 @@
+object MainForm: TMainForm
+  Left = 0
+  Top = 0
+  Caption = 'Multi Condition'
+  ClientHeight = 269
+  ClientWidth = 216
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object mmoResult: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Anchors = [akLeft, akTop, akRight, akBottom]
+    Position.X = 8.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 202.000000000000000000
+    Size.Height = 222.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Viewport.Width = 198.000000000000000000
+    Viewport.Height = 218.000000000000000000
+  end
+  object btnCondition1: TButton
+    Anchors = [akLeft, akBottom]
+    Position.X = 8.000000000000000000
+    Position.Y = 237.000000000000000000
+    TabOrder = 1
+    Text = 'Condition 1'
+    OnClick = btnCondition1Click
+  end
+  object btnCondition2: TButton
+    Anchors = [akRight, akBottom]
+    Position.X = 129.000000000000000000
+    Position.Y = 237.000000000000000000
+    TabOrder = 2
+    Text = 'Condition 2'
+    OnClick = btnCondition2Click
+  end
+end
