@@ -11,4 +11,5 @@ Example projects for site mirsovetov.net
 * StringList - Тестирование производительности добавления записей в StringList
 * Directive\MultiDirective - Пример использования более одной директивы в одном выражении {$IF}
 
+Donate:
 [![Donate](https://www.liqpay.com/1492601871674865/static/img/images/logo.svg)](https://www.liqpay.com/ru/checkout/card/mirsovetov)
