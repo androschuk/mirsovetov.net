@@ -2,7 +2,7 @@ program FormPosition;
 
 uses
   Vcl.Forms,
-  MainFormUnit in 'MainFormUnit.pas' {MainForm};
+  Main.Form in 'Main.Form.pas' {MainForm};
 
 {$R *.res}
 
